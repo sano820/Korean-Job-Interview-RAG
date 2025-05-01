@@ -21,12 +21,14 @@
 📁 Korean-Job-Interview-RAG/
 ├──  최종파일.ipynb
 ├── 📁 notebooks/
-│   ├── 1_data_preparation.ipynb
-│   ├── 2_vector_indexing.ipynb
-│   ├── 3_retriever_module.ipynb
-│   └── 4_api_interface.ipynb
+│   ├── 1_data_preparation.ipynb   
+│   ├── 2_vector_indexing.ipynb   
+│   ├── 3_retriever_module.ipynb   
+│   └── 4_api_interface.ipynb   
 ├── 📁 products/ 
-│   ├── 인덱스.index             
-│   ├── ...json           
-└── README.md
+│   ├── merged_interview_data.json             
+│   ├── rag_chunks.json      
+|   ├── rag_faiss.index     
+|   └── rag_texts.json     
+└── README.md 
 ```
