@@ -19,7 +19,6 @@
 ## 💾 디렉토리 구조  
 ```
 📁 Korean-Job-Interview-RAG/
-├──  최종파일.ipynb
 ├── 📁 notebooks/
 │   ├── 1_data_preparation.ipynb   
 │   ├── 2_vector_indexing.ipynb   
